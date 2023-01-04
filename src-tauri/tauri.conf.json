@@ -7,7 +7,7 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "tauri-vue-starter",
+    "productName": "danmu-zhiyin",
     "version": "0.0.0"
   },
   "tauri": {
@@ -62,7 +62,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "tauri-vue-starter",
+        "title": "danmu-zhiyin",
         "width": 800
       }
     ]

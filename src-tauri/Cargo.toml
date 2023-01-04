@@ -1,8 +1,8 @@
 [package]
-name = "tauri-vue-starter"
+name = "danmu-zhiyin"
 version = "0.0.0"
-description = "A Tauri App"
-authors = ["you"]
+description = "Danmu Zhiyin"
+authors = ["JiatLn"]
 license = ""
 repository = ""
 edition = "2021"
